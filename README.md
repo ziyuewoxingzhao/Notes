@@ -1,2 +1,5 @@
 # Notes
-some notes about network security
+
+------2018年9月20日更新-----
+关于ICMP的返回消息类别
+
